@@ -1,1 +1,2 @@
-# GxBombing
+# GX_SMS1
+اس ام اس بمبر 1
